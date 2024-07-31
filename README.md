@@ -1,7 +1,7 @@
 Setup Instructions
 Clone the Repository
 bash
-git clone https://github.com/your-repo/BloggingPlatform.git
+git clone 
 cd BloggingPlatform
 Configure Database Connection
 Edit the appsettings.json file to configure your SQL Server connection string.
