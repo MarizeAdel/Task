@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\.net\\MyProjects\\task\\Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF08002B-38EF-40F3-9023-6D65B5011A16}|..\\AppRepo\\AppRepo.csproj|d:\\study\\.net\\myprojects\\task\\apprepo\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F1E5DB-70E2-4258-909E-E1002F29B3B7}|..\\Models\\Models.csproj|d:\\study\\.net\\myprojects\\task\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F1E5DB-70E2-4258-909E-E1002F29B3B7}|..\\Models\\Models.csproj|d:\\study\\.net\\myprojects\\task\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F1E5DB-70E2-4258-909E-E1002F29B3B7}|..\\Models\\Models.csproj|d:\\study\\.net\\myprojects\\task\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F1E5DB-70E2-4258-909E-E1002F29B3B7}|..\\Models\\Models.csproj|d:\\study\\.net\\myprojects\\task\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719DEDB8-D928-4BAE-9298-CBB4EE969763}|Task.csproj|d:\\study\\.net\\myprojects\\task\\task\\controllers\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719DEDB8-D928-4BAE-9298-CBB4EE969763}|Task.csproj|solutionrelative:controllers\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719DEDB8-D928-4BAE-9298-CBB4EE969763}|Task.csproj|d:\\study\\.net\\myprojects\\task\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719DEDB8-D928-4BAE-9298-CBB4EE969763}|Task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719DEDB8-D928-4BAE-9298-CBB4EE969763}|Task.csproj|d:\\study\\.net\\myprojects\\task\\task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{719DEDB8-D928-4BAE-9298-CBB4EE969763}|Task.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF08002B-38EF-40F3-9023-6D65B5011A16}|..\\AppRepo\\AppRepo.csproj|d:\\study\\.net\\myprojects\\task\\apprepo\\migrations\\20240727110203_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719DEDB8-D928-4BAE-9298-CBB4EE969763}|Task.csproj|d:\\study\\.net\\myprojects\\task\\task\\task.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{719DEDB8-D928-4BAE-9298-CBB4EE969763}|Task.csproj|solutionrelative:task.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppController.cs",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\task\\Task\\Controllers\\AppController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppController.cs",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\task\\Task\\Controllers\\AppController.cs",
+              "RelativeToolTip": "Controllers\\AppController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAwHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:12:15.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\task\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\Models\\User.cs",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\task\\Models\\User.cs",
+              "RelativeToolTip": "..\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:37:59.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\task\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Comment.cs",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\task\\Models\\Comment.cs",
+              "RelativeToolTip": "..\\Models\\Comment.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA5wBoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:40:09.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\task\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "..\\Models\\BlogPost.cs",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\task\\Models\\BlogPost.cs",
+              "RelativeToolTip": "..\\Models\\BlogPost.cs",
+              "ViewState": "AQIAAA4AAADg//////8fwBoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:39:13.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Follow.cs",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\task\\Models\\Follow.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Follow.cs",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\task\\Models\\Follow.cs",
+              "RelativeToolTip": "..\\Models\\Follow.cs",
+              "ViewState": "AQIAAAoAAAAAMzMzMzMLwBUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:41:05.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BloggingContext.cs",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\task\\AppRepo\\BloggingContext.cs",
+              "RelativeDocumentMoniker": "..\\AppRepo\\BloggingContext.cs",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\task\\AppRepo\\BloggingContext.cs",
+              "RelativeToolTip": "..\\AppRepo\\BloggingContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T10:50:06.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240727110203_first.cs",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\task\\AppRepo\\Migrations\\20240727110203_first.cs",
+              "RelativeDocumentMoniker": "..\\AppRepo\\Migrations\\20240727110203_first.cs",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\task\\AppRepo\\Migrations\\20240727110203_first.cs",
+              "RelativeToolTip": "..\\AppRepo\\Migrations\\20240727110203_first.cs",
+              "ViewState": "AQIAAEcAAAAAzczMzMwmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:02:03.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\task\\Task\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\task\\Task\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowAMAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T10:19:25.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\task\\Task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\task\\Task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T10:19:19.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Task.http",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\task\\Task\\Task.http",
+              "RelativeDocumentMoniker": "Task.http",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\task\\Task\\Task.http",
+              "RelativeToolTip": "Task.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-21T22:37:26.104Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
