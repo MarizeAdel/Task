@@ -60,8 +60,7 @@
               "RelativeToolTip": "Controllers\\AppController.cs",
               "ViewState": "AQIAAGYAAAAAAAAAAAAAwHgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T11:12:15.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T11:12:15.827Z"
             },
             {
               "$type": "Document",
@@ -73,8 +72,7 @@
               "RelativeToolTip": "..\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAQwBMAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T22:37:59.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T22:37:59.214Z"
             },
             {
               "$type": "Document",
@@ -86,8 +84,7 @@
               "RelativeToolTip": "..\\Models\\Comment.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAA5wBoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T22:40:09.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T22:40:09.552Z"
             },
             {
               "$type": "Document",
@@ -99,8 +96,7 @@
               "RelativeToolTip": "..\\Models\\BlogPost.cs",
               "ViewState": "AQIAAA4AAADg//////8fwBoAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T22:39:13.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T22:39:13.99Z"
             },
             {
               "$type": "Document",
@@ -112,8 +108,7 @@
               "RelativeToolTip": "..\\Models\\Follow.cs",
               "ViewState": "AQIAAAoAAAAAMzMzMzMLwBUAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T22:41:05.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T22:41:05.147Z"
             },
             {
               "$type": "Document",
@@ -127,6 +122,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T10:50:06.849Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -175,10 +174,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2024-07-21T22:37:26.104Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

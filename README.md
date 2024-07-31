@@ -1,4 +1,4 @@
-Setup Instructions
+<h1>Setup Instructions</h1>
 Clone the Repository
 bash
 git clone 
@@ -6,6 +6,7 @@ cd BloggingPlatform
 Configure Database Connection
 Edit the appsettings.json file to configure your SQL Server connection string.
 
+<br>
 
 json
 {
